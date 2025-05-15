@@ -1,9 +1,8 @@
 # IoT Home Controller with Raspberry Pi Pico W
 
-## Embedded IoT Control System Architecture and Real-Time Data Integration using MQTT and Adafruit IO
+### Embedded IoT Control System Architecture and Real-Time Data Integration using MQTT and Adafruit IO
 
-**Author:** Sangwon LEE 
-**Date:** May 15, 2025
+**Author:** Sangwon LEE
 
 ---
 
