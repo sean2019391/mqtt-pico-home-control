@@ -156,6 +156,7 @@ async def main_loop():
 * Temperature accuracy: ±0.5°C
 * OLED refresh rate: 5 seconds
 * PWM response: Real-time adjustment based on Adafruit IO inputs
+* Demonstration Video: https://drive.google.com/file/d/13CW7xy2KiQrkXT3UIJzezUTfskjDa3L3/view?usp=sharing
 
 ---
 
