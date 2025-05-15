@@ -1,11 +1,9 @@
 # IoT Home Controller with Raspberry Pi Pico W
 
-## EE4011A Mini-Project - Industrial Computer Applications
+## Embedded IoT Control System Architecture and Real-Time Data Integration using MQTT and Adafruit IO
 
-### Hong Kong Polytechnic University
-
-**Author:** Sangwon LEE (19086387D)
-**Date:** April 21, 2025
+**Author:** Sangwon LEE 
+**Date:** May 15, 2025
 
 ---
 
